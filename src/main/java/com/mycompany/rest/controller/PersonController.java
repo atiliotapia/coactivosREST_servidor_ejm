@@ -23,7 +23,7 @@ import com.mycompany.rest.service.PersonService;
 
 /**
  * REST service provider
- * 
+ * OK VICTOR ok.
  * Only GET and POST will return values PUT and DELETE will not.
  */
 @Controller
