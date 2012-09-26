@@ -13,7 +13,7 @@ public class PersonService {
 
 	protected static Logger logger = Logger.getLogger("service");
 	
-	// In-memory listado
+	// In-memory list
 	private List<Person> persons = new ArrayList<Person>();
 	
 	public PersonService() {
