@@ -3,7 +3,7 @@ package com.mycompany.rest.domain;
 import java.util.List;
 
 import javax.xml.bind.annotation.XmlRootElement;
-
+//Clase Lista Persona
 @XmlRootElement(name="persons")
 public class PersonList {
 
