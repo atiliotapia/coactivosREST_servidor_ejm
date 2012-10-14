@@ -2,7 +2,7 @@ package com.mycompany.rest.domain;
 
 
 import javax.xml.bind.annotation.XmlRootElement;
-
+//Clase Persona
 @XmlRootElement(name="person")
 public class Person {
 
